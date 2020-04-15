@@ -2,6 +2,10 @@
   "name": "ts-template",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": ">= 12",
+    "npm": ">= 6.14"
+  },
   "main": "dist/index.js",
   "scripts": {
     "build": "npm run clean && tsc -p tsconfig.json",
