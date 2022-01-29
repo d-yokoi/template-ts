@@ -1,3 +1,3 @@
 import * as config from 'config';
 
-console.log(`hello ts-template (env: ${config.env})`);
+console.log(`hello template-ts (env: ${config.env})`);

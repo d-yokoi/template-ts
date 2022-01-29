@@ -1,5 +1,5 @@
 {
-  "name": "ts-template",
+  "name": "template-ts",
   "version": "1.0.0",
   "description": "",
   "engines": {
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/d-yokoi/ts-template.git"
+    "url": "git+ssh://git@github.com/d-yokoi/template-ts.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/d-yokoi/ts-template/issues"
+    "url": "https://github.com/d-yokoi/template-ts/issues"
   },
-  "homepage": "https://github.com/d-yokoi/ts-template#readme",
+  "homepage": "https://github.com/d-yokoi/template-ts#readme",
   "devDependencies": {
     "@types/jest": "26.0.23",
     "jest": "26.6.3",

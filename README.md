@@ -1,1 +1,1 @@
-# ts-template
+# template-ts
