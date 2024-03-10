@@ -1,5 +1,5 @@
-describe('index', () => {
-  it('should succeed', () => {
+describe("index", () => {
+  it("should succeed", () => {
     expect(true).toBe(true);
   });
 });
